@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# frontend-crud
+Este repositorio contiene la aplicación frontend que permite realizar operaciones de agregar, actualizar, eliminar y consultar productos a través del consumo de una API RESTful desarrollada en Nest.js 
+>>>>>>> 56e7c88e19345199d35397e648350099248b570b
